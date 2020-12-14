@@ -8,16 +8,16 @@
 ## Screenshots
 1. Начальное окно
 
-![main page](https://github.com/AlexandrNemashkalo/Implementing-template-trie/blob/main/screens/1.png)
+![main page](https://github.com/AlexandrNemashkalo/Implementing-template-trie/blob/main/screens/11.png)
 
 2. Поиск общих жанров
 
-![second](https://github.com/AlexandrNemashkalo/Implementing-template-trie/blob/main/screens/2.png)
+![second](https://github.com/AlexandrNemashkalo/Implementing-template-trie/blob/main/screens/12.png)
 
 3. Вывод сообщения об отсутствии жанров в коллекции
 
-![item](https://github.com/AlexandrNemashkalo/Implementing-template-trie/blob/main/screens/3.png)
+![item](https://github.com/AlexandrNemashkalo/Implementing-template-trie/blob/main/screens/13.png)
 
 4. Вывод сообщения об отсутствии жанров в коллекции
 
-![item](https://github.com/AlexandrNemashkalo/Implementing-template-trie/blob/main/screens/3.png)
+![item](https://github.com/AlexandrNemashkalo/Implementing-template-trie/blob/main/screens/13.png)
