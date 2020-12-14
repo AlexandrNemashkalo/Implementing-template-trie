@@ -10,14 +10,14 @@
 
 ![main page](https://github.com/AlexandrNemashkalo/Implementing-template-trie/blob/main/screens/11.png)
 
-2. Поиск общих жанров
+2. Рабочее окно 
 
 ![second](https://github.com/AlexandrNemashkalo/Implementing-template-trie/blob/main/screens/12.png)
 
-3. Вывод сообщения об отсутствии жанров в коллекции
+3. Пример отображения записей коллекции
 
 ![item](https://github.com/AlexandrNemashkalo/Implementing-template-trie/blob/main/screens/13.png)
 
-4. Вывод сообщения об отсутствии жанров в коллекции
+4. Вывод списка записей, у которых ключ начинается с заданной последовательности
 
-![item](https://github.com/AlexandrNemashkalo/Implementing-template-trie/blob/main/screens/13.png)
+![item](https://github.com/AlexandrNemashkalo/Implementing-template-trie/blob/main/screens/14.png)
